@@ -1,0 +1,22 @@
+artifact_path: /Users/kalebhall/Transit-Equity-ML-Classifier/mlruns/0/models/m-e978d864f0864efca55ddeb88f677f5e/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.12
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.16.1
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.9.0
+model_id: m-e978d864f0864efca55ddeb88f677f5e
+model_size_bytes: 21755
+model_uuid: m-e978d864f0864efca55ddeb88f677f5e
+prompts: null
+run_id: 078c742127ac4c03bed323cbcdd65c20
+utc_time_created: '2026-02-17 21:34:30.773418'
